@@ -103,10 +103,10 @@ After deployment, update this section with the actual URLs:
 
 ```text
 Frontend:
-<production-frontend-url>
+https://customer-crm-topaz.vercel.app
 
 Backend:
-<production-backend-url>
+https://customercrm-s4r1.onrender.com/api
 ```
 
 
